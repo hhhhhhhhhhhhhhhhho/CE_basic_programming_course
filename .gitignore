@@ -1,0 +1,5 @@
+./*.dSYM
+
+*.dSYM
+.DS_Store
+*.pptx
