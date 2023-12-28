@@ -15,3 +15,4 @@ int main()
     for(int i=0; i<4; i++)
         printf("%c 's Adress is : 0x%x \n",test_array[i],&test_array[i]);
 }
+
